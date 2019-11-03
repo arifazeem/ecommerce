@@ -1,0 +1,114 @@
+*{
+    margin:0;
+    padding:0;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color:antiquewhite;
+}
+.container{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+.h3{
+    margin: 0px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    color: black; 
+}
+.h4{
+    margin: 0;
+    padding:0;
+}
+
+.card{
+    padding-left: 20px;
+    margin-right: 10px;
+}
+footer{
+    margin-bottom:0;
+    padding-bottom:0;
+    
+}
+.sas{
+    background-color: rgb(194, 197, 189);
+    padding-top:20px ;
+    padding-bottom:20px ;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 2px 2px 2px 2px;
+    margin-bottom: 40px;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+.ho{
+    margin-top: 20px;
+}
+#div1{
+width: 350px; 
+height: 100px;
+ padding: 10px; 
+ border: 2px solid  gray;
+ 
+}
+#dragg{
+    margin : center;
+    padding: 40px 40px 40px 40px ;
+    
+    text-align: center;
+
+}
+.patner{
+    margin-top: 30px;
+    text-align: center;
+    box-sizing: border-box;
+}
+h2{
+    margin-bottom: 16px;
+    font-size: 30px;
+    line-height: 1.2;
+    color:#374250;
+    text-transform: none;
+    font-family: inherit;
+    font-weight: 500;
+}
+.uy{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    margin-right: -15px;
+    margin-left: -15px;
+    flex-wrap: wrap;
+    color: #606975;
+    font-family: "Maven Pro",Helvetica,Arial,sans-serif; 
+    font-size: 14px;
+    font-weight: normal;
+    text-transform: none;
+    line-height: 1.5;
+
+}
+ .part1{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: #606975;
+    font-family: "Maven Pro",Helvetica,Arial,sans-serif;
+    font-size: 14px; 
+    font-weight: normal;
+     line-height: 1.5; 
+    margin-bottom: 30px !important;
+    text-align: center !important;
+    flex: 0 0 25%;
+    max-width: 25%; 
+} 
+h6{
+    font-size: 16px;
+    line-height: 1.4;
+}
